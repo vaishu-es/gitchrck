@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitchrck/static/css/main.291ec693.css",
+    "main.js": "/gitchrck/static/js/main.61d30e4c.js",
+    "static/js/787.f2f16869.chunk.js": "/gitchrck/static/js/787.f2f16869.chunk.js",
+    "static/media/logo.svg": "/gitchrck/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitchrck/index.html",
+    "main.291ec693.css.map": "/gitchrck/static/css/main.291ec693.css.map",
+    "main.61d30e4c.js.map": "/gitchrck/static/js/main.61d30e4c.js.map",
+    "787.f2f16869.chunk.js.map": "/gitchrck/static/js/787.f2f16869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291ec693.css",
+    "static/js/main.61d30e4c.js"
+  ]
+}
